@@ -1,5 +1,6 @@
 # Taller2-2018-2
 Jorge eliecer argoty pepinosa 1014255595
+
 Problema 1
 Simplemente se pintaron cuadrados equidistantes con turtle
 Problema 2
