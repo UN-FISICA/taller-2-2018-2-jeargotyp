@@ -2,7 +2,9 @@
 Jorge eliecer argoty pepinosa 1014255595
 
 Problema 1
+
 Simplemente se pintaron cuadrados equidistantes con turtle
+
 Problema 2
 Se añadieron los poligonos con el algoritmo
     for k in range(lados):
